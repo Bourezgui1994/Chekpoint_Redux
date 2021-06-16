@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+
+.addTask {
+    background-color: orange;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100vh;
+    height: 45vh;
+    margin: auto;
+    border-radius: 30px;
+  }
+  
+  .addTask h3 {
+    color: #f7f5fb;
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    font-family: weight;
+  }
+  
+  input {
+    width: 370px;
+    height: 35px;
+    border-radius: 50px;
+    border: white;
+    text-align: center;
+    font-size: 20px;
+  }
+
+
+  button{
+    margin-top: 30px;
+    width: 150px;
+    height: 35px;
+    font-size: 18px;
+    background-color: black;
+    color: white;
+    font-weight: 500;
+    border-radius: 50px;
+    border: 2px solid white;
+  }
+
+  button:hover{
+  background-color: orange;
+  color: white;
+  }

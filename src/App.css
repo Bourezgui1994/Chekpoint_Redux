@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Pattaya&display=swap');
+
+.App {
+    background-color :black;
+    color: white;
+    min-height: 100vh;
+    text-align: center;
+    border: orange 8px solid;
+  }
+  
+h1 {
+  font-family: 'Pattaya', sans-serif;
+  font-size: 40px;
+  letter-spacing: 8px;
+  padding-top: 30px;
+}
+  
